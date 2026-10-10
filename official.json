@@ -1,10 +1,10 @@
 {
   "USD": 698,
-  "EUR": 781.1318,
-  "CAD": 489.51539,
-  "RUB": 8.16541,
-  "ratesAsOf": "2026-10-08T14:56:07.238Z",
-  "checkedAt": "2026-10-08T19:42:32.128Z",
+  "EUR": 781.3761,
+  "CAD": 488.76129,
+  "RUB": 8.22813,
+  "ratesAsOf": "2026-10-10T14:02:10.383Z",
+  "checkedAt": "2026-10-10T14:02:10.383Z",
   "source": "bcc-tasa-especial",
   "relay": "residential"
 }
